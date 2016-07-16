@@ -250,7 +250,7 @@ class CS_REST_Clients extends CS_REST_Wrapper_Base {
     }
 
     /**
-     * Gets all templates the current client has access to
+     * Gets details about the current client
      * @access public
      * @return CS_REST_Wrapper_Result A successful response will be an object of the form
      * {
